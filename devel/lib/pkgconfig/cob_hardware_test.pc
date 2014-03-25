@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: cob_hardware_test
+Description: Description of cob_hardware_test
+Version: 0.5.0
+Cflags: 
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib 
+Requires: 

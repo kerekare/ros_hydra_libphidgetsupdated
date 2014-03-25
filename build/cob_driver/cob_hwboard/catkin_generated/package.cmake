@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_hwboard")
+set(cob_hwboard_MAINTAINER "Eduard Herkel <uhr-eh@ipa.fhg.de>")
+set(cob_hwboard_DEPRECATED "")
+set(cob_hwboard_VERSION "0.5.0")
+set(cob_hwboard_BUILD_DEPENDS "rospy" "std_msgs" "diagnostic_msgs")
+set(cob_hwboard_RUN_DEPENDS "rospy" "std_msgs" "diagnostic_msgs")
+set(cob_hwboard_BUILDTOOL_DEPENDS "catkin")

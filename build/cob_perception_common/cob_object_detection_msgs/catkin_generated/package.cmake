@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_object_detection_msgs")
+set(cob_object_detection_msgs_MAINTAINER "Richard Bormann <rmb@ipa.fhg.de>")
+set(cob_object_detection_msgs_DEPRECATED "")
+set(cob_object_detection_msgs_VERSION "0.0.0")
+set(cob_object_detection_msgs_BUILD_DEPENDS "actionlib_msgs" "geometry_msgs" "message_generation" "sensor_msgs" "std_msgs" "std_srvs")
+set(cob_object_detection_msgs_RUN_DEPENDS "actionlib_msgs" "geometry_msgs" "message_runtime" "sensor_msgs" "std_msgs" "std_srvs")
+set(cob_object_detection_msgs_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "libphidgets")
+set(libphidgets_MAINTAINER "Alexander Bubeck <aub@ipa.fhg.de>")
+set(libphidgets_DEPRECATED "")
+set(libphidgets_VERSION "0.5.0")
+set(libphidgets_BUILD_DEPENDS "mk" "rosbuild" "libusb-dev")
+set(libphidgets_RUN_DEPENDS )
+set(libphidgets_BUILDTOOL_DEPENDS "catkin")

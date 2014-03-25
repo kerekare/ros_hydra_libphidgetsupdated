@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "raw_description")
+set(raw_description_MAINTAINER "Alexander Bubeck <aub@ipa.fhg.de>")
+set(raw_description_DEPRECATED "")
+set(raw_description_VERSION "0.5.0")
+set(raw_description_BUILD_DEPENDS "convex_decomposition" "ivcon")
+set(raw_description_RUN_DEPENDS "cob_description" "gazebo_ros")
+set(raw_description_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: schunk_sdh
+Description: Description of schunk_sdh
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/devel/include
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib 
+Requires: message_runtime roscpp urdf sensor_msgs trajectory_msgs actionlib cob_srvs control_msgs libntcan libpcan diagnostic_msgs brics_actuator

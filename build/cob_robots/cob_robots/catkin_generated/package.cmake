@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_robots")
+set(cob_robots_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(cob_robots_DEPRECATED "")
+set(cob_robots_VERSION "0.5.0")
+set(cob_robots_BUILD_DEPENDS )
+set(cob_robots_RUN_DEPENDS "cob_controller_configuration_gazebo" "cob_hardware_config" "cob_default_robot_config" "cob_monitoring" "cob_bringup" "cob_hardware_test")
+set(cob_robots_BUILDTOOL_DEPENDS "catkin")

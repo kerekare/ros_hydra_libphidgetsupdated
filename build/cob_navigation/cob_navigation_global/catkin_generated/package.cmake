@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_navigation_global")
+set(cob_navigation_global_MAINTAINER "Matthias Gruhler <todo@todo.todo>")
+set(cob_navigation_global_DEPRECATED "")
+set(cob_navigation_global_VERSION "0.1.0")
+set(cob_navigation_global_BUILD_DEPENDS )
+set(cob_navigation_global_RUN_DEPENDS "move_base" "acml" "map_server" "topic_tools" "cob_default_env_config" "cob_linear_nav" "cob_navigation_config" "rviz")
+set(cob_navigation_global_BUILDTOOL_DEPENDS "catkin")

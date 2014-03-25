@@ -1,0 +1,38 @@
+
+(cl:in-package :asdf)
+
+(defsystem "cob_pick_place_action-msg"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils :actionlib_msgs-msg
+               :geometry_msgs-msg
+               :std_msgs-msg
+)
+  :components ((:file "_package")
+    (:file "CobPlaceGoal" :depends-on ("_package_CobPlaceGoal"))
+    (:file "_package_CobPlaceGoal" :depends-on ("_package"))
+    (:file "CobPlaceFeedback" :depends-on ("_package_CobPlaceFeedback"))
+    (:file "_package_CobPlaceFeedback" :depends-on ("_package"))
+    (:file "CobPickResult" :depends-on ("_package_CobPickResult"))
+    (:file "_package_CobPickResult" :depends-on ("_package"))
+    (:file "CobPickAction" :depends-on ("_package_CobPickAction"))
+    (:file "_package_CobPickAction" :depends-on ("_package"))
+    (:file "CobPlaceResult" :depends-on ("_package_CobPlaceResult"))
+    (:file "_package_CobPlaceResult" :depends-on ("_package"))
+    (:file "CobPickActionFeedback" :depends-on ("_package_CobPickActionFeedback"))
+    (:file "_package_CobPickActionFeedback" :depends-on ("_package"))
+    (:file "CobPlaceActionFeedback" :depends-on ("_package_CobPlaceActionFeedback"))
+    (:file "_package_CobPlaceActionFeedback" :depends-on ("_package"))
+    (:file "CobPlaceActionGoal" :depends-on ("_package_CobPlaceActionGoal"))
+    (:file "_package_CobPlaceActionGoal" :depends-on ("_package"))
+    (:file "CobPickActionGoal" :depends-on ("_package_CobPickActionGoal"))
+    (:file "_package_CobPickActionGoal" :depends-on ("_package"))
+    (:file "CobPlaceActionResult" :depends-on ("_package_CobPlaceActionResult"))
+    (:file "_package_CobPlaceActionResult" :depends-on ("_package"))
+    (:file "CobPickGoal" :depends-on ("_package_CobPickGoal"))
+    (:file "_package_CobPickGoal" :depends-on ("_package"))
+    (:file "CobPlaceAction" :depends-on ("_package_CobPlaceAction"))
+    (:file "_package_CobPlaceAction" :depends-on ("_package"))
+    (:file "CobPickActionResult" :depends-on ("_package_CobPickActionResult"))
+    (:file "_package_CobPickActionResult" :depends-on ("_package"))
+    (:file "CobPickFeedback" :depends-on ("_package_CobPickFeedback"))
+    (:file "_package_CobPickFeedback" :depends-on ("_package"))
+  ))

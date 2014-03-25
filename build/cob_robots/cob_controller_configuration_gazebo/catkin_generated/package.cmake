@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_controller_configuration_gazebo")
+set(cob_controller_configuration_gazebo_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(cob_controller_configuration_gazebo_DEPRECATED "")
+set(cob_controller_configuration_gazebo_VERSION "0.5.0")
+set(cob_controller_configuration_gazebo_BUILD_DEPENDS )
+set(cob_controller_configuration_gazebo_RUN_DEPENDS "rostopic" "joint_trajectory_action" "robot_mechanism_controllers" "velocity_controllers" "cob_bringup" "cob_sick_s300" "cob_relayboard" "cob_sound" "image_proc" "schunk_simulated_tactile_sensors" "cob_phidgets")
+set(cob_controller_configuration_gazebo_BUILDTOOL_DEPENDS "catkin")

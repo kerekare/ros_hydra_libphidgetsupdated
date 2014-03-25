@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_grasp_generation")
+set(cob_grasp_generation_MAINTAINER "Felix Messmer <fxm@ipa.fhg.de>")
+set(cob_grasp_generation_DEPRECATED "")
+set(cob_grasp_generation_VERSION "0.5.0")
+set(cob_grasp_generation_BUILD_DEPENDS "rospy" "message_generation" "actionlib" "actionlib_msgs" "std_msgs" "moveit_msgs")
+set(cob_grasp_generation_RUN_DEPENDS "rospy" "message_runtime" "actionlib" "actionlib_msgs" "std_msgs" "moveit_msgs" "tf" "openrave" "geometry_msgs")
+set(cob_grasp_generation_BUILDTOOL_DEPENDS "catkin")

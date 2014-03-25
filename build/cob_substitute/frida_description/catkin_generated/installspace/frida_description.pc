@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: frida_description
+Description: Description of frida_description
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib 
+Requires: 

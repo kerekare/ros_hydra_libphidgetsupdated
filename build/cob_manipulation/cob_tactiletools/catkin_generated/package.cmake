@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_tactiletools")
+set(cob_tactiletools_MAINTAINER "Alexander Bubeck <aub@ipa.fhg.de>")
+set(cob_tactiletools_DEPRECATED "")
+set(cob_tactiletools_VERSION "0.5.0")
+set(cob_tactiletools_BUILD_DEPENDS )
+set(cob_tactiletools_RUN_DEPENDS "rospy" "cob_srvs" "std_msgs" "schunk_sdh")
+set(cob_tactiletools_BUILDTOOL_DEPENDS "catkin")

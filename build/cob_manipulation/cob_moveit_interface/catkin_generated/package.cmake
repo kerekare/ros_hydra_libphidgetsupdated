@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_moveit_interface")
+set(cob_moveit_interface_MAINTAINER "Felix Messmer <fxm@ipa.fhg.de>")
+set(cob_moveit_interface_DEPRECATED "")
+set(cob_moveit_interface_VERSION "0.5.0")
+set(cob_moveit_interface_BUILD_DEPENDS )
+set(cob_moveit_interface_RUN_DEPENDS "rospy" "geometry_msgs" "tf" "moveit_commander")
+set(cob_moveit_interface_BUILDTOOL_DEPENDS "catkin")

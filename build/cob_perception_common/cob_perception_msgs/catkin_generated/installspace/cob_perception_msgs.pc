@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: cob_perception_msgs
+Description: Description of cob_perception_msgs
+Version: 0.0.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/install/include
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib 
+Requires: message_runtime sensor_msgs

@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: cob_lookat_action
+Description: Description of cob_lookat_action
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/install/include
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib 
+Requires: rospy message_runtime actionlib actionlib_msgs std_msgs geometry_msgs moveit_msgs control_msgs

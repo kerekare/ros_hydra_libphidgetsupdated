@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kerekare/workspace/care-o-bot/src/cob_driver/cob_sick_lms1xx/common/include/lms1xx.h
+string
+-
+stdint.h
+-
+
+/home/kerekare/workspace/care-o-bot/src/cob_driver/cob_sick_lms1xx/ros/src/set_config.cpp
+iostream
+-
+boost/lexical_cast.hpp
+-
+lms1xx.h
+-
+

@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: cob_cam3d_throttle
+Description: Description of cob_cam3d_throttle
+Version: 0.5.0
+Cflags: 
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib -lcam3d_throttle
+Requires: roscpp sensor_msgs pluginlib message_filters nodelet

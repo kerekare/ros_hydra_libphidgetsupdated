@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_calibration_data")
+set(cob_calibration_data_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(cob_calibration_data_DEPRECATED "")
+set(cob_calibration_data_VERSION "0.5.0")
+set(cob_calibration_data_BUILD_DEPENDS )
+set(cob_calibration_data_RUN_DEPENDS )
+set(cob_calibration_data_BUILDTOOL_DEPENDS "catkin")

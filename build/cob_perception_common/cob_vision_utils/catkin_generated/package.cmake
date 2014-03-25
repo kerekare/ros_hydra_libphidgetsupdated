@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_vision_utils")
+set(cob_vision_utils_MAINTAINER "Jan Fischer <jsf@ipa.fhg.de>")
+set(cob_vision_utils_DEPRECATED "")
+set(cob_vision_utils_VERSION "0.0.0")
+set(cob_vision_utils_BUILD_DEPENDS "opencv2" "roscpp" "visualization_msgs" "cmake_modules")
+set(cob_vision_utils_RUN_DEPENDS "opencv2" "roscpp" "visualization_msgs")
+set(cob_vision_utils_BUILDTOOL_DEPENDS "catkin")

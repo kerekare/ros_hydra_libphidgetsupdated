@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_pick_place_action")
+set(cob_pick_place_action_MAINTAINER "Felix Messmer <fxm@ipa.fhg.de>")
+set(cob_pick_place_action_DEPRECATED "")
+set(cob_pick_place_action_VERSION "0.5.0")
+set(cob_pick_place_action_BUILD_DEPENDS "rospy" "roscpp" "message_generation" "actionlib" "actionlib_msgs" "std_msgs" "geometry_msgs" "moveit_msgs" "tf" "moveit_ros_planning_interface" "moveit_ros_move_group" "cob_moveit_interface" "cob_grasp_generation")
+set(cob_pick_place_action_RUN_DEPENDS "rospy" "roscpp" "message_runtime" "actionlib" "actionlib_msgs" "std_msgs" "geometry_msgs" "moveit_msgs" "tf" "moveit_ros_planning_interface" "moveit_ros_move_group" "cob_moveit_interface" "cob_grasp_generation")
+set(cob_pick_place_action_BUILDTOOL_DEPENDS "catkin")

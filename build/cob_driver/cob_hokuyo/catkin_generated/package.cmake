@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_hokuyo")
+set(cob_hokuyo_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(cob_hokuyo_DEPRECATED "")
+set(cob_hokuyo_VERSION "0.5.0")
+set(cob_hokuyo_BUILD_DEPENDS "roscpp" "sensor_msgs" "control_msgs")
+set(cob_hokuyo_RUN_DEPENDS "roscpp" "rostest" "sensor_msgs" "hokuyo_node")
+set(cob_hokuyo_BUILDTOOL_DEPENDS "catkin")

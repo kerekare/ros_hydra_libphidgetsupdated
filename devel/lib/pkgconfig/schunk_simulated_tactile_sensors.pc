@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: schunk_simulated_tactile_sensors
+Description: Description of schunk_simulated_tactile_sensors
+Version: 0.5.0
+Cflags: 
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib 
+Requires: rospy schunk_sdh geometry_msgs

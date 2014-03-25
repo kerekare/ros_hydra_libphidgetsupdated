@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: cob_moveit_config
+Description: Description of cob_moveit_config
+Version: 0.5.0
+Cflags: 
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib 
+Requires: 

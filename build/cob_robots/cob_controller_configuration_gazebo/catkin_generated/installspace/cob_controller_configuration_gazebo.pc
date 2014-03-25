@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: cob_controller_configuration_gazebo
+Description: Description of cob_controller_configuration_gazebo
+Version: 0.5.0
+Cflags: 
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib 
+Requires: 

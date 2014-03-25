@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: ur_description
+Description: Description of ur_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib 
+Requires: 

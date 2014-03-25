@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_phidgets")
+set(cob_phidgets_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(cob_phidgets_DEPRECATED "")
+set(cob_phidgets_VERSION "0.5.0")
+set(cob_phidgets_BUILD_DEPENDS "roscpp" "rospy" "libphidgets" "std_msgs" "sensor_msgs")
+set(cob_phidgets_RUN_DEPENDS "roscpp" "rospy" "libphidgets" "std_msgs" "sensor_msgs")
+set(cob_phidgets_BUILDTOOL_DEPENDS "catkin")

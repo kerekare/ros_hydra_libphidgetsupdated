@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_lookat_action")
+set(cob_lookat_action_MAINTAINER "Felix Messmer <fxm@ipa.fhg.de>")
+set(cob_lookat_action_DEPRECATED "")
+set(cob_lookat_action_VERSION "0.5.0")
+set(cob_lookat_action_BUILD_DEPENDS "rospy" "roscpp" "message_generation" "actionlib" "actionlib_msgs" "std_msgs" "geometry_msgs" "moveit_msgs" "control_msgs")
+set(cob_lookat_action_RUN_DEPENDS "rospy" "roscpp" "message_runtime" "actionlib" "actionlib_msgs" "std_msgs" "geometry_msgs" "moveit_msgs" "control_msgs")
+set(cob_lookat_action_BUILDTOOL_DEPENDS "catkin")

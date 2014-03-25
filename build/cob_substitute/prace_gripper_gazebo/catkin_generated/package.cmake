@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "prace_gripper_gazebo")
+set(prace_gripper_gazebo_MAINTAINER "Alexander Bubeck <aub@ipa.fhg.de>")
+set(prace_gripper_gazebo_DEPRECATED "")
+set(prace_gripper_gazebo_VERSION "0.1.0")
+set(prace_gripper_gazebo_BUILD_DEPENDS )
+set(prace_gripper_gazebo_RUN_DEPENDS )
+set(prace_gripper_gazebo_BUILDTOOL_DEPENDS "catkin")

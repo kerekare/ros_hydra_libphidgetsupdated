@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kerekare/workspace/care-o-bot/src/cob_driver/cob_cam3d_throttle/src/cam3d_throttle.cpp
+ros/ros.h
+/home/kerekare/workspace/care-o-bot/src/cob_driver/cob_cam3d_throttle/src/ros/ros.h
+pluginlib/class_list_macros.h
+/home/kerekare/workspace/care-o-bot/src/cob_driver/cob_cam3d_throttle/src/pluginlib/class_list_macros.h
+nodelet/nodelet.h
+/home/kerekare/workspace/care-o-bot/src/cob_driver/cob_cam3d_throttle/src/nodelet/nodelet.h
+sensor_msgs/PointCloud2.h
+/home/kerekare/workspace/care-o-bot/src/cob_driver/cob_cam3d_throttle/src/sensor_msgs/PointCloud2.h
+sensor_msgs/Image.h
+-
+sensor_msgs/CameraInfo.h
+-
+message_filters/subscriber.h
+-
+message_filters/synchronizer.h
+-
+message_filters/sync_policies/approximate_time.h
+-
+

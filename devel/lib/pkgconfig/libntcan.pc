@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: libntcan
+Description: Description of libntcan
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/src/cob_extern/libntcan/common/include -I/home/kerekare/workspace/care-o-bot/src/cob_extern/libntcan/common/include/libntcan
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib -lntcan
+Requires: 

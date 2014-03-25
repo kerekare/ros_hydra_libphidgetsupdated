@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_default_env_config")
+set(cob_default_env_config_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(cob_default_env_config_DEPRECATED "")
+set(cob_default_env_config_VERSION "0.5.0")
+set(cob_default_env_config_BUILD_DEPENDS "roslaunch")
+set(cob_default_env_config_RUN_DEPENDS )
+set(cob_default_env_config_BUILDTOOL_DEPENDS "catkin")

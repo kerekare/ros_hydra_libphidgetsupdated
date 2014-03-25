@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_canopen_motor")
+set(cob_canopen_motor_MAINTAINER "Christian Connette <cpc@ipa.fhg.de>")
+set(cob_canopen_motor_DEPRECATED "")
+set(cob_canopen_motor_VERSION "0.5.0")
+set(cob_canopen_motor_BUILD_DEPENDS "roscpp" "cob_generic_can" "cob_utilities")
+set(cob_canopen_motor_RUN_DEPENDS "roscpp" "cob_generic_can" "cob_utilities")
+set(cob_canopen_motor_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~influence_radius" : \b [double] Max distance of obstacles from robot center that are used for computing relevant obstacles min: 0.0, default: 1.5, max: 5.0
+- \b "~stop_threshold" : \b [double] Distance to relevant_obstacle at which robot stops to move completely min: 0.0, default: 0.2, max: 5.0
+- \b "~obstacle_damping_dist" : \b [double] Distance in driving direction at which potential field like slow down controller starts to work min: 0.1, default: 5.0, max: 5.0
+

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_hardware_test")
+set(cob_hardware_test_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(cob_hardware_test_DEPRECATED "")
+set(cob_hardware_test_VERSION "0.5.0")
+set(cob_hardware_test_BUILD_DEPENDS )
+set(cob_hardware_test_RUN_DEPENDS "rostest" "cob_bringup" "cob_default_robot_config")
+set(cob_hardware_test_BUILDTOOL_DEPENDS "catkin")

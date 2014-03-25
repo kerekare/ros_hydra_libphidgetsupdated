@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: cob_camera_sensors
+Description: Description of cob_camera_sensors
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/install/include
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib 
+Requires: roscpp pluginlib message_runtime message_filters nodelet

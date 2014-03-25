@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: cob_sound
+Description: Description of cob_sound
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/devel/include
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib 
+Requires: rospy roscpp sound_play actionlib actionlib_msgs std_msgs cob_srvs diagnostic_msgs message_runtime

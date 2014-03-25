@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: cob_navigation_global
+Description: Description of cob_navigation_global
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib 
+Requires: 

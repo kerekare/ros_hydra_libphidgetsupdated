@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: schunk_libm5api
+Description: Description of schunk_libm5api
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/install/include
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib -lm5api
+Requires: libpcan libntcan

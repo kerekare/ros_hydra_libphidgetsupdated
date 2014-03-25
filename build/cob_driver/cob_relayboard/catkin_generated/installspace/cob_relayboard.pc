@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: cob_relayboard
+Description: Description of cob_relayboard
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/install/include
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib -lSerialIO -lcob_relayboard
+Requires: message_runtime roscpp rostest std_msgs cob_utilities pr2_msgs

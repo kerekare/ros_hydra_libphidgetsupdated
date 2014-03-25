@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_substitute")
+set(cob_substitute_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(cob_substitute_DEPRECATED "")
+set(cob_substitute_VERSION "0.5.0")
+set(cob_substitute_BUILD_DEPENDS )
+set(cob_substitute_RUN_DEPENDS "cob_lbr")
+set(cob_substitute_BUILDTOOL_DEPENDS "catkin")

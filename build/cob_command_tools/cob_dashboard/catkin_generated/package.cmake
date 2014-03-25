@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_dashboard")
+set(cob_dashboard_MAINTAINER "Alexander Bubeck <aub@ipa.fhg.de>")
+set(cob_dashboard_DEPRECATED "")
+set(cob_dashboard_VERSION "0.5.0")
+set(cob_dashboard_BUILD_DEPENDS "rospy")
+set(cob_dashboard_RUN_DEPENDS "rospy" "roslib" "std_srvs" "std_msgs" "pr2_power_board" "pr2_msgs" "rqt_pr2_dashboard" "rqt_gui_cpp")
+set(cob_dashboard_BUILDTOOL_DEPENDS "catkin")

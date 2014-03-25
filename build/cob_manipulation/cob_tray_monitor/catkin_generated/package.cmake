@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_tray_monitor")
+set(cob_tray_monitor_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(cob_tray_monitor_DEPRECATED "")
+set(cob_tray_monitor_VERSION "0.5.0")
+set(cob_tray_monitor_BUILD_DEPENDS )
+set(cob_tray_monitor_RUN_DEPENDS "rospy" "cob_srvs" "sensor_msgs")
+set(cob_tray_monitor_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: prace_gripper_description
+Description: Description of prace_gripper_description
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib 
+Requires: 

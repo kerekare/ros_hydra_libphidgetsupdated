@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_base_drive_chain")
+set(cob_base_drive_chain_MAINTAINER "Christian Connette <cpc@ipa.fhg.de>")
+set(cob_base_drive_chain_DEPRECATED "")
+set(cob_base_drive_chain_VERSION "0.5.0")
+set(cob_base_drive_chain_BUILD_DEPENDS "roscpp" "sensor_msgs" "diagnostic_msgs" "cob_srvs" "cob_generic_can" "cob_canopen_motor" "cob_utilities" "libpcan" "control_msgs")
+set(cob_base_drive_chain_RUN_DEPENDS "roscpp" "sensor_msgs" "diagnostic_msgs" "cob_srvs" "cob_generic_can" "cob_canopen_motor" "cob_utilities" "libpcan" "control_msgs")
+set(cob_base_drive_chain_BUILDTOOL_DEPENDS "catkin")

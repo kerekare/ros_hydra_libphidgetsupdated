@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libur5_kin.so -o /home/kerekare/workspace/care-o-bot/devel/lib/libur5_kin.so CMakeFiles/ur5_kin.dir/src/ur_kin.cpp.o 

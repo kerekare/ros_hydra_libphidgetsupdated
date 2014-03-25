@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: cob_collision_velocity_filter
+Description: Description of cob_collision_velocity_filter
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/install/include
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib 
+Requires: roscpp rospy dynamic_reconfigure nav_msgs tf cob_footprint_observer visualization_msgs

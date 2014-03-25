@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: cob_script_server
+Description: Description of cob_script_server
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/devel/include
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib 
+Requires: actionlib message_runtime actionlib_msgs tf std_msgs cob_srvs trajectory_msgs geometry_msgs control_msgs cob_sound

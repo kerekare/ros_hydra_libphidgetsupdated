@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: cob_base_velocity_smoother
+Description: Description of cob_base_velocity_smoother
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/src/cob_driver/cob_base_velocity_smoother/include
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib 
+Requires: std_msgs roscpp geometry_msgs

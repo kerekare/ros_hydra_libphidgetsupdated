@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_footprint_observer")
+set(cob_footprint_observer_MAINTAINER "Matthias Gruhler <mig@ipa.fhg.de>")
+set(cob_footprint_observer_DEPRECATED "")
+set(cob_footprint_observer_VERSION "0.5.0")
+set(cob_footprint_observer_BUILD_DEPENDS "roscpp" "tf" "std_msgs" "geometry_msgs" "message_generation")
+set(cob_footprint_observer_RUN_DEPENDS "roscpp" "message_runtime" "tf" "std_msgs" "geometry_msgs")
+set(cob_footprint_observer_BUILDTOOL_DEPENDS "catkin")

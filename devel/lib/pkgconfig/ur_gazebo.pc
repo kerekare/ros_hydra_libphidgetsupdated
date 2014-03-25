@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: ur_gazebo
+Description: Description of ur_gazebo
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib 
+Requires: 

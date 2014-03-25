@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/install
+
+Name: ur_kinematics
+Description: Description of ur_kinematics
+Version: 0.1.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/install/include
+Libs: -L/home/kerekare/workspace/care-o-bot/install/lib -lur10_kin -lur5_kin
+Requires: 

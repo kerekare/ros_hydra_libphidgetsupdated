@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_moveit_config")
+set(cob_moveit_config_MAINTAINER "MoveIt Setup Assistant <assistant@moveit.ros.org>")
+set(cob_moveit_config_DEPRECATED "")
+set(cob_moveit_config_VERSION "0.5.0")
+set(cob_moveit_config_BUILD_DEPENDS )
+set(cob_moveit_config_RUN_DEPENDS "moveit_ros_move_group" "xacro" "cob_hardware_config")
+set(cob_moveit_config_BUILDTOOL_DEPENDS "catkin")

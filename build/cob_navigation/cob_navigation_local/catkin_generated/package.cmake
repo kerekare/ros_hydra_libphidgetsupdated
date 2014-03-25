@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_navigation_local")
+set(cob_navigation_local_MAINTAINER "Matthias Gruhler <todo@todo.todo>")
+set(cob_navigation_local_DEPRECATED "")
+set(cob_navigation_local_VERSION "0.1.0")
+set(cob_navigation_local_BUILD_DEPENDS )
+set(cob_navigation_local_RUN_DEPENDS "move_base" "rviz" "cob_navigation_config")
+set(cob_navigation_local_BUILDTOOL_DEPENDS "catkin")

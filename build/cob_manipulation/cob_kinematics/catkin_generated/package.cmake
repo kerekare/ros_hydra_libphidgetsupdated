@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_kinematics")
+set(cob_kinematics_MAINTAINER "Mathias Lüdtke, Felix Messmer <fxm@ipa.fhg.de>")
+set(cob_kinematics_DEPRECATED "")
+set(cob_kinematics_VERSION "0.5.0")
+set(cob_kinematics_BUILD_DEPENDS "roscpp" "message_generation" "std_msgs" "geometry_msgs" "moveit_msgs" "sensor_msgs" "kdl_parser" "urdf" "kdl_conversions" "tf_conversions" "pluginlib" "moveit_core" "moveit_ros_planning" "liblapack-dev")
+set(cob_kinematics_RUN_DEPENDS "roscpp" "message_runtime" "std_msgs" "geometry_msgs" "moveit_msgs" "sensor_msgs" "kdl_parser" "urdf" "kdl_conversions" "tf_conversions" "pluginlib" "moveit_core" "moveit_ros_planning" "liblapack-dev")
+set(cob_kinematics_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/kerekare/workspace/care-o-bot/devel
+
+Name: cob_interactive_teleop
+Description: Description of cob_interactive_teleop
+Version: 0.5.0
+Cflags: -I/home/kerekare/workspace/care-o-bot/src/cob_command_tools/cob_interactive_teleop/include
+Libs: -L/home/kerekare/workspace/care-o-bot/devel/lib 
+Requires: roscpp interactive_markers rviz roscpp visualization_msgs interactive_markers std_msgs tf geometry_msgs sensor_msgs message_filters

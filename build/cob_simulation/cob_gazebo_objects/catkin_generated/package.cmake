@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_gazebo_objects")
+set(cob_gazebo_objects_MAINTAINER "Nadia Hammoudeh <nhg@ipa.fhg.de>")
+set(cob_gazebo_objects_DEPRECATED "")
+set(cob_gazebo_objects_VERSION "0.5.0")
+set(cob_gazebo_objects_BUILD_DEPENDS "urdf" "cob_description")
+set(cob_gazebo_objects_RUN_DEPENDS "urdf" "cob_description" "gazebo_ros")
+set(cob_gazebo_objects_BUILDTOOL_DEPENDS "catkin")

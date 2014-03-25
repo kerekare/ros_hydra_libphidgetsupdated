@@ -1,0 +1,6 @@
+set(cob_grasp_generation_SETUP_PY_VERSION "0.5.0")
+set(cob_grasp_generation_SETUP_PY_SCRIPTS "")
+set(cob_grasp_generation_SETUP_PY_PACKAGES "cob_grasp_generation")
+set(cob_grasp_generation_SETUP_PY_PACKAGE_DIRS "src/cob_grasp_generation")
+set(cob_grasp_generation_SETUP_PY_MODULES "")
+set(cob_grasp_generation_SETUP_PY_MODULE_DIRS "")

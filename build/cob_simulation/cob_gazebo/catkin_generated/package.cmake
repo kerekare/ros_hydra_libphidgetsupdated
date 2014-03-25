@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_gazebo")
+set(cob_gazebo_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(cob_gazebo_DEPRECATED "")
+set(cob_gazebo_VERSION "0.5.0")
+set(cob_gazebo_BUILD_DEPENDS )
+set(cob_gazebo_RUN_DEPENDS "gazebo_ros" "gazebo_plugins" "gazebo_worlds" "gazebo_tools" "tf" "robot_state_publisher" "joint_trajectory_action" "single_joint_position_action" "actionlib" "actionlib_msgs" "move_base_msgs" "cob_srvs" "cob_description" "desire_description" "raw_description" "cob_gazebo_worlds" "cob_hardware_config" "cob_controller_configuration_gazebo" "pr2_gazebo" "pr2_gazebo_plugins")
+set(cob_gazebo_BUILDTOOL_DEPENDS "catkin")

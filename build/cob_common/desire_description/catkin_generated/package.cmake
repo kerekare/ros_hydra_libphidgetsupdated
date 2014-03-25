@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "desire_description")
+set(desire_description_MAINTAINER "Florian Weisshardt <fmw@ipa.fhg.de>")
+set(desire_description_DEPRECATED "")
+set(desire_description_VERSION "0.5.0")
+set(desire_description_BUILD_DEPENDS "convex_decomposition" "ivcon")
+set(desire_description_RUN_DEPENDS "cob_description" "gazebo_ros")
+set(desire_description_BUILDTOOL_DEPENDS "catkin")

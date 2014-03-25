@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_navigation")
+set(cob_navigation_MAINTAINER "Matthias Gruhler <todo@todo.todo>")
+set(cob_navigation_DEPRECATED "")
+set(cob_navigation_VERSION "0.1.0")
+set(cob_navigation_BUILD_DEPENDS )
+set(cob_navigation_RUN_DEPENDS "cob_linear_nav" "cob_mapping_slam" "cob_navigation_config" "cob_navigation_global" "cob_navigation_local" "cob_navigation_slam")
+set(cob_navigation_BUILDTOOL_DEPENDS "catkin")
